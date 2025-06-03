@@ -1,2 +1,2 @@
-# cryptocurrency
-Demonstrating my understanding and skills within cryptocurrency, blockchain architecture, smart contracts, decentralization, mining/staking, wallets &amp; exchanges and tokenomics.
+# Cryptocurrency
+## Demonstrating my understanding and skills within cryptocurrency, blockchain architecture, smart contracts, decentralization, mining/staking, wallets &amp; exchanges and tokenomics.
